@@ -2,6 +2,7 @@
     "python.pythonPath": "C:\\Program Files\\Python36\\python.exe",
     "workbench.colorCustomizations": {
         "activityBar.background": "#242f3c",
+        "activityBar.activeBorder": "#8b546d",
         "activityBar.foreground": "#e7e7e7",
         "activityBar.inactiveForeground": "#e7e7e799",
         "activityBarBadge.background": "#8b546d",
